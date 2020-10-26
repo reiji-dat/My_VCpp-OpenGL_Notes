@@ -4,3 +4,8 @@
 
 # 参考
 - [VisualC++ を使った OpenGL 入門](http://www.natural-science.or.jp/article/20091118233724.php)
+
+## 参考になりそうなもの
+### ゲームループ(メインループ)に使えそうなもの
+- [GULTの基本関数説明](http://www.cg.ces.kyutech.ac.jp/lecture/cg2/opengl_reference.pdf)
+- [GULTのイベント](http://wisdom.sakura.ne.jp/system/opengl/gl10.html)
